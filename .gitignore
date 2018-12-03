@@ -1,0 +1,11 @@
+.metadata/
+.DS_Store
+project201*
+scriptOutput
+customProject
+ApiBlocklyInterface/src/main/webapp/
+target
+RemoteSystemsTempFiles
+blockly_*compressed.js
+
+/.recommenders/
