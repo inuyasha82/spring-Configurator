@@ -24,7 +24,7 @@ In order to work both projects need the following installed packages:
 * [Maven] (https://maven.apache.org/)
 * [Java 8] (http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html)
 
-Both projects are create using STS (Sprin Tool Suite), and IDE based on eclipse.
+Both projects are created using STS (Spring Tool Suite), an IDE based on eclipse.
 
 Currently it works only with classes that are defined into the project as maven dependencies. More info are on the project Readme.
 
